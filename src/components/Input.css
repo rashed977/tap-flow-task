@@ -1,0 +1,30 @@
+input{
+    border-radius: 50px;
+    height: 31px;
+    width: 256px;
+    background-color: #BEBEBE;
+    border: 1px solid #BEBEBE;
+}
+.name-info{
+    width: 303px;
+    height: 60px;
+    border-radius: 15px;
+}
+.user-img{
+    width: 300px;
+    height: 70px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid rgba(246, 107, 14, 1);
+}
+.user-link{
+    width: 300px;
+    height: 60px;
+    border-radius: 7px;
+    background-color: white;
+    margin-top: 10px;
+}
+.error{
+    color: red;
+}

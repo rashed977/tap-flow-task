@@ -1,0 +1,22 @@
+.header-btn {
+  position: absolute;
+  right: 45px;
+  background-color: transparent;
+  border: none;
+  top: 25px;
+}
+.header-btn:hover {
+  cursor: pointer;
+}
+.hobbies-edit, .submit {
+    background-color: rgba(246, 107, 14, 1);
+    width: 303px;
+    height: 40px;
+    left: 35px;
+    top: 443px;
+    border-radius: 10px;
+    border: 1px solid rgba(246, 107, 14, 1);
+    color: white;
+    cursor: pointer;
+    margin-top: 45px;
+}

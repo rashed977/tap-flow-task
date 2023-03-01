@@ -1,0 +1,48 @@
+.sidenav-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 222px;
+    height: 2590px;
+    padding-top: 50px;
+    position: sticky;
+    top: 70px; 
+    height: 200px;
+}
+
+.profile, .settings, .friends{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 112px;
+    height: 38px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.profile h3, .settings h3, .friends h3{
+    margin-right: 15px;
+}
+.profile:hover, .profile:active, .settings:hover, .friends:hover{
+    background-color: rgba(247, 122, 39, 0.15);
+}
+.selected-tab{
+    background-color: rgba(247, 122, 39, 0.15);
+}
+h3{
+    margin-left: 25px;
+}
+.text-start{
+    margin-left: unset;
+
+}
+.nav-link{
+    text-decoration: none;
+    color: rgba(146, 146, 146, 1);
+}
+.nav-link:hover{
+    color: rgba(247, 122, 39, 1);
+}
+
+
+
+

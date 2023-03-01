@@ -1,0 +1,26 @@
+.header-cont{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    z-index: 99;
+}
+.header{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px 0 40px;
+    box-shadow: 0 4px 17px 0px rgba(180, 180, 180, 0.16);
+}
+.header-logo{
+
+}
+.header-search{
+
+}
+.header-input{
+    padding-left: 8px;
+}
+input[type='text'] {
+    flex-grow: 1;
+  }

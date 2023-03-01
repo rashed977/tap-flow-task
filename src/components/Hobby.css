@@ -1,0 +1,22 @@
+.hobby-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 114px;
+    height: 32px;
+    border-radius: 5px;
+    background-color: rgba(31, 163, 255, 0.1);
+    margin-right: 15px;
+}
+.text-cont{
+    margin: 5px 10px;
+    width: 75px;
+}
+.text-cont h4{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: rgba(31, 163, 255, 1);
+    font-size: 15px;
+    font-weight: 500;
+}

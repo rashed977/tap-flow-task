@@ -1,0 +1,70 @@
+.profile-main-cont{
+    padding: 40px;
+    border-left: 1px solid rgba(196, 196, 196, 0.5);
+}
+.profile-main-cont>h3{
+    text-align: start;
+}
+.information{
+    margin-top: 30px;
+}
+.inputs-cont{
+    display: flex;
+    margin-top: 10px;
+}
+.hobbies{
+    margin-top: 30px;
+}
+.hobbies-cards{
+    display: flex;
+    margin-top: 5px;
+}
+.section-2, .section-1{
+    margin-top: 50px;
+}
+.section-2-info{
+    display: flex;
+}
+.left-info{
+    width: 50%;
+}
+.right-info{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+}
+.img-cont{
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.upload-cont{
+    margin-top: 100px;
+}
+.upload{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: 1px solid rgba(246, 107, 14, 1);
+    width: 465px;
+    height: 80px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.upload-text{
+    width: 240px;
+    height: 16px;
+}
+.upload-text h4{
+    color: rgba(246, 107, 14, 1);
+    size: 14px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 16.44px;
+}

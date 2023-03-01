@@ -1,0 +1,10 @@
+.settings-main-cont{
+    width: 1300px;
+    padding: 40px 0 0 40px;
+    border-left: 1px solid rgba(196, 196, 196, 0.5);
+
+}
+.inputs-cont{
+    display: flex;
+    flex-wrap: wrap;
+}
